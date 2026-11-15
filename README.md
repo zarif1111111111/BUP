@@ -1,5 +1,7 @@
 # BUP Term Paper Formatting (Claude skill)
 
+**Please make sure to read the whole document first as it will help you to make changes according to your instructor's needs**
+
 A Claude skill that writes or formats a group term paper in the house format used at the Faculty of Business Studies (FBS), Bangladesh University of Professionals (BUP). It produces a Word (.docx) file.
 
 ## What it does
